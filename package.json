@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@testing-library/cypress": "^9.0.0",
+    "cy-search": "^1.2.0",
+    "cypress": "^12.14.0",
+    "cypress-dark": "^1.8.3",
+    "cypress-drag-drop": "^1.1.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mailosaur": "^2.13.0",
+    "cyrun": "^1.0.3",
+    "package": "^1.0.1",
+    "testing-library": "^0.0.2"
+  }
+}

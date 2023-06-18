@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/imani.christie/.nvm/versions/node/v18.4.0/bin/node /Users/imani.christie/.nvm/versions/node/v16.15.1/bin/yarn
+
+PATH: 
+  /Users/imani.christie/.rd/bin:/Users/imani.christie/.nvm/versions/node/v18.4.0/bin:/Users/imani.christie/Library/Python/3.8/lib/python/site-packages:/Users/imani.christie/.pyenv/shims:/Users/imani.christie/.pyenv/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/imani.christie/.rd/bin:/Users/imani.christie/.nvm/versions/node/v16.15.1/bin:/Users/imani.christie/Library/Python/3.8/lib/python/site-packages:/Users/imani.christie/.pyenv/bin:/Users/imani.christie/.nvm/versions/node/v18.4.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.4.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  SyntaxError: /Users/imani.christie/Desktop/tech/cypressplayground/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /Users/imani.christie/.nvm/versions/node/v16.15.1/lib/node_modules/yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/Users/imani.christie/.nvm/versions/node/v16.15.1/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /Users/imani.christie/.nvm/versions/node/v16.15.1/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
